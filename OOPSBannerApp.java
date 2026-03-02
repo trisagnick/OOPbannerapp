@@ -1,3 +1,4 @@
+
 public class OOPSBannerApp {
 
     static String[] o = new String[7];
